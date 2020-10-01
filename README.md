@@ -10,8 +10,6 @@
 
 <div align="center">
 
-[![Hit counter](http://hits.dwyl.com/MilanAryal/MilanAryal.svg)](https://github.com/MilanAryal/MilanAryal)
-[![GitHub followers](https://img.shields.io/github/followers/MilanAryal?style=social)](https://github.com/MilanAryal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MilanAryal?style=social)](https://twitter.com/intent/follow?screen_name=MilanAryal)
 
 </div>
