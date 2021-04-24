@@ -1,4 +1,4 @@
-[![GitHub profile of @MilanAryal](https://user-images.githubusercontent.com/9361180/89604434-fd00dc80-d88a-11ea-90b2-2132e1e11308.gif)](https://github.com/MilanAryal/MilanAryal)
+[![GitHub profile of @MilanAryal](https://user-images.githubusercontent.com/9361180/89604434-fd00dc80-d88a-11ea-90b2-2132e1e11308.gif)](https://github.com/MilanAryal)
 
 <!--
 > **Oh hey — I'm Milan Aryal**
